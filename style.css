@@ -1,0 +1,101 @@
+body{
+	padding:0;
+	margin:0;
+}
+
+img{
+	position: absolute;
+}
+
+.resize{
+	left: 10px;
+	top: 344px;	
+}
+
+.aarow1{
+	left: 642px;
+	top: 333px;
+}
+
+.player{
+	position: absolute;
+	left: 250px;
+	top: 50px;
+	opacity: 35%;
+}
+
+.flowers2{
+	left: 438px;
+	top: 203px;
+}
+
+.routine{
+	left: 58px;
+	top: 319px;
+}
+
+.booktext{
+	position: absolute;
+	left: 40px;
+	top: 50px;
+	opacity: 0;
+}
+
+.book{
+	position: absolute;
+	left: 88px;
+	top: 75px;
+}
+
+.booktext:hover{
+	opacity: 1;
+}
+
+.cake{
+	left: 349px;
+	top: 75px;
+}
+
+.sushitext{
+	position: absolute;
+	left: 574px;
+	top: 71px;
+	opacity: 0;
+}
+
+.sushi{
+	position: absolute;
+	left: 574px;
+	top: 71px;
+}
+
+.sushitext:hover{
+	opacity: 1
+}
+
+.text4{
+	position: absolute;
+	left: 57px;
+	top: 349px;
+}
+
+.blankscreen{
+	left:253px;
+	top:149px;
+	opacity: 0;
+}
+
+.blankscreen:hover{
+	opacity: 1;
+}
+
+.imissmom{
+	left:13px;
+	top:53px;
+	opacity:0;
+	transition: opacity 5s;
+}
+
+.imissmom:hover{
+	opacity: 1
+}
